@@ -1,0 +1,12 @@
+body {background-color: rgb(227, 186, 147);}
+h1, p
+{text-align: center;
+}
+
+.links {text-align: center;
+padding: 10px}
+
+.links a {
+    margin: 0 10px;
+    color: rgb(128, 0, 0);
+  }
